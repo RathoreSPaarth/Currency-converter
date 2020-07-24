@@ -1,2 +1,2 @@
-# convertCurrency.github.io
+# convertCurrency
 Converts currency using API at latest exchange rate
